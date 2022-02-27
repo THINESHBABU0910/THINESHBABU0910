@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with Projects
 - 💬 Ask me about !
 - 📫 How to reach me: thineshbabu.ks@gmail.com
-- 😄 Pronouns: ...
+- 😄 Pronouns:Thinesh
 - ⚡ Fun fact: ...
 
 
