@@ -22,7 +22,6 @@ MYself THINESH 👋
 <img src="https://img.shields.io/badge/-React-5cd9ff?style=for-the-badge&logo=react&logoColor=5cd9ff&labelColor=282828">
 
 <br><img src="https://img.shields.io/badge/-PHP-787cb4?style=for-the-badge&logo=php&logoColor=787cb4&labelColor=282828">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/-Symfony-fff?style=for-the-badge&logo=symfony&logoColor=fff&labelColor=282828">
 
 <br><img src="https://img.shields.io/badge/-SQL-eee?style=for-the-badge&logo=mysql&logoColor=eee&labelColor=282828">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-Git-f05030?style=for-the-badge&logo=git&logoColor=f05030&labelColor=282828">
