@@ -39,8 +39,7 @@ MYself THINESH 👋
    <img src="https://github-readme-stats.vercel.app/api?username=THINESHBABU0910&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
   
-  <img align="left" width="47%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=THINESHBABU0910&hide=html&theme=dark&layout=compact&langs_count=8">
-   
+  
 
 
 <img align="right" width="47%"  src="https://github-readme-streak-stats.herokuapp.com?user=THINESHBABU0910&theme=dark">
