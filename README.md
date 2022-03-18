@@ -42,7 +42,7 @@ MYself THINESH 👋
   
 
 
-<img align="right" width="47%"  src="https://github-readme-streak-stats.herokuapp.com?user=THINESHBABU0910&theme=dark">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=THINESHBABU0910&theme=dark">
 
   
 
